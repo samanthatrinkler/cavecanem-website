@@ -1,0 +1,862 @@
+.desktop-EN-contact {
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  align-items: flex-start;
+  position: relative;
+  background-color: #ffffff;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.desktop-EN-contact .site-header-3 {
+  padding: 0px 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .navigation-5 {
+  display: flex;
+  height: 104px;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #101010;
+}
+
+.desktop-EN-contact .home-entry-4 {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+.desktop-EN-contact .header-wordmark-home-4 {
+  position: relative;
+  width: 190px;
+  height: 34.53px;
+  margin-left: -6.28px;
+  aspect-ratio: 5.5;
+  background-image: url(./img/cavecanem-logotype-1-14.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop-EN-contact .collective-6 {
+  position: relative;
+  width: 174px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 14px;
+}
+
+.desktop-EN-contact .page-links-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 36px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.desktop-EN-contact .navigation-item-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 10px 0px 8px;
+  position: relative;
+  flex: 0 0 auto;
+  border: 0px none;
+}
+
+.desktop-EN-contact .navigation-link-9 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-contact .navigation-item-6 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 10px 0px 8px;
+  position: relative;
+  flex: 0 0 auto;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-color: #ff5a00;
+}
+
+.desktop-EN-contact .navigation-link-10 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-contact .studio-favicon-home-4 {
+  position: relative;
+  width: 44px;
+  height: 40px;
+  background-image: url(./img/cave-favicon-home-6.png);
+  background-size: 100% 100%;
+}
+
+.desktop-EN-contact .language-5 {
+  position: relative;
+  width: fit-content;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-contact .text-wrapper-12 {
+  font-weight: 700;
+  color: #ff5a00;
+}
+
+.desktop-EN-contact .text-wrapper-13 {
+  color: #101010;
+}
+
+.desktop-EN-contact .contact-breadcrumb {
+  padding: 0px 48px 24px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.desktop-EN-contact .breadcrumb-4 {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 24px 0px 4px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .marginal-note-52 {
+  width: fit-content;
+  color: #555555;
+  white-space: nowrap;
+  position: relative;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-contact .marginal-note-53 {
+  width: fit-content;
+  color: #101010;
+  white-space: nowrap;
+  position: relative;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-contact .project-enquiry {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 48px;
+  padding: 52px 48px 72px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #101010;
+}
+
+.desktop-EN-contact .div-20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+}
+
+.desktop-EN-contact .marginal-note-54 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #ff5a00;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.desktop-EN-contact .contact-invitation-3 {
+  display: flex;
+  align-items: flex-start;
+  gap: 100px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .contact-invitation-4 {
+  gap: 36px;
+  flex: 1;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.desktop-EN-contact .heading-14 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 80px;
+  letter-spacing: -4px;
+  line-height: 78.4px;
+}
+
+.desktop-EN-contact .invitation-copy {
+  display: flex;
+  flex-direction: column;
+  width: 475px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .description-13 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ff5a00;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 33px;
+}
+
+.desktop-EN-contact .conversation-arrow {
+  position: relative;
+  width: 77px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ff5a00;
+  font-size: 80px;
+  letter-spacing: 0;
+  line-height: 80px;
+}
+
+.desktop-EN-contact .what-to-send {
+  display: flex;
+  flex-direction: column;
+  width: 475px;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 26px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #555555;
+}
+
+.desktop-EN-contact .marginal-note-55 {
+  width: 108px;
+  color: #ff5a00;
+  position: relative;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-contact .description-14 {
+  color: #ff5a00;
+  font-size: 18px;
+  line-height: 27px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-contact .preparation-note {
+  position: relative;
+  align-self: stretch;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #bbbbbb;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+}
+
+.desktop-EN-contact .direct-email-enquiry-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.desktop-EN-contact .enquiry-label-2 {
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #ff5a00;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: relative;
+  align-self: stretch;
+}
+
+.desktop-EN-contact .email-invitation-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-size: 40px;
+  line-height: 46px;
+  position: relative;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-contact .enquiry-preparation-2 {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+  align-self: stretch;
+}
+
+.desktop-EN-contact .complete-project {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .div-21 {
+  gap: 28px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+
+.desktop-EN-contact .div-22 {
+  flex-direction: column;
+  width: 293px;
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+
+.desktop-EN-contact .brief-prompt-label {
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  color: #ff5a00;
+  font-size: 12px;
+  line-height: 18px;
+  position: relative;
+  align-self: stretch;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-contact .brief-prompt {
+  font-family: "Inter", Helvetica;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 26.1px;
+  position: relative;
+  align-self: stretch;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-contact .guide-section-rule {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  background-color: #555555;
+}
+
+.desktop-EN-contact .div-23 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .discipline {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 23.2px;
+}
+
+.desktop-EN-contact .brief-reassurance {
+  position: relative;
+  align-self: stretch;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #ff5a00;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-contact .email-enquiry-button-2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 18px 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ff5a00;
+}
+
+.desktop-EN-contact .email-contact-action-2 {
+  position: relative;
+  width: 239px;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 30.8px;
+}
+
+.desktop-EN-contact .email-arrow-2 {
+  width: 23px;
+  margin-top: -1px;
+  color: #101010;
+  font-size: 24px;
+  line-height: 33.6px;
+  position: relative;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-contact .email-action-2 {
+  position: relative;
+  align-self: stretch;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 15.4px;
+}
+
+.desktop-EN-contact .first-conversation {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 48px;
+  padding: 64px 48px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .conversation {
+  display: flex;
+  align-items: flex-start;
+  gap: 70px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .conversation-label {
+  display: flex;
+  flex-direction: column;
+  width: 348px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.desktop-EN-contact .marginal-note-56 {
+  width: 123px;
+  color: #101010;
+  position: relative;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-contact .conversation-scope {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.desktop-EN-contact .heading-15 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 48px;
+  letter-spacing: -1px;
+  line-height: 49.9px;
+}
+
+.desktop-EN-contact .description-15 {
+  color: #101010;
+  font-size: 20px;
+  line-height: 30px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-contact .supporting-entries {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 40px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .text-action-8 {
+  display: inline-flex;
+  align-items: center;
+  gap: 24px;
+  padding: 12px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #ff5a00;
+}
+
+.desktop-EN-contact .action-label-11 {
+  position: relative;
+  width: 163px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-contact .direction-6 {
+  position: relative;
+  width: 25px;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ff5a00;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-contact .action-label-12 {
+  position: relative;
+  width: 138px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-contact .how-a-collaboration {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .div-24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.desktop-EN-contact .guide-section-rule-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  background-color: #bbbbbb;
+}
+
+.desktop-EN-contact .collaboration-step {
+  font-family: "IBM Plex Mono", Helvetica;
+  color: #101010;
+  font-size: 12px;
+  line-height: 18px;
+  position: relative;
+  align-self: stretch;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-contact .collaboration-step-2 {
+  font-family: "Inter", Helvetica;
+  color: #101010;
+  font-size: 28px;
+  line-height: 40.6px;
+  position: relative;
+  align-self: stretch;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-contact .collaboration-step-3 {
+  font-family: "Inter", Helvetica;
+  color: #555555;
+  font-size: 18px;
+  line-height: 26.1px;
+  position: relative;
+  align-self: stretch;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-contact .site-footer-4 {
+  gap: 40px;
+  padding: 56px 48px 24px;
+  background-color: #101010;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .direct-contact-3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .studio-email-5 {
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  color: #ff5a00;
+  font-size: 26px;
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-contact .studio-domain-5 {
+  font-family: "IBM Plex Mono", Helvetica;
+  color: #ffffff;
+  font-size: 16px;
+  position: relative;
+  width: fit-content;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-contact .footer-navigation-5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #555555;
+}
+
+.desktop-EN-contact .marginal-note-57 {
+  width: 375px;
+  color: #ff5a00;
+  position: relative;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-contact .footer-links-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 32px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-contact .footer-link-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-contact .footer-wordmark-4 {
+  position: relative;
+  max-width: 1150px;
+  width: 100%;
+  aspect-ratio: 5.5;
+}
+
+.desktop-EN-contact .cavecanem-logotype-6 {
+  position: relative;
+  height: 100%;
+  left: -18px;
+  width: 1168px;
+  background-image: url(./img/cavecanem-logotype-1-15.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop-EN-contact .marginal-note-58 {
+  width: 87px;
+  color: #ff5a00;
+  position: relative;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-contact .marginal-note-59 {
+  width: 166px;
+  color: #ff5a00;
+  position: relative;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-contact::-webkit-scrollbar {
+  width: 0;
+  display: none;
+}

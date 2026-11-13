@@ -1,0 +1,92 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400|Inter:500,400");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  min-height: 100%;
+}
+html {
+  scroll-behavior: smooth;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain !important;
+}
+.desktop-EN-home,
+.desktop-EN,
+.desktop-EN-contact,
+.desktop-EN-dailleurs,
+.desktop-EN-lespace,
+.desktop-EN-piqpiq,
+.desktop-EN-projects,
+.desktop-EN-workshop {
+  height: auto !important;
+  min-height: 100vh;
+  overflow: visible !important;
+}
+.capability-header,
+.capability-header-2 {
+  cursor: pointer;
+}
+.capability-header:focus-visible,
+.capability-header-2:focus-visible {
+  outline: 2px solid #ff5a00;
+  outline-offset: 4px;
+}
+.capability,
+.capability-4 {
+  gap: 0;
+}
+.capability-expanded,
+.capability-expanded-2 {
+  max-height: 0;
+  margin-top: 0;
+  margin-bottom: 0 !important;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 350ms ease, margin-top 350ms ease, opacity 250ms ease;
+}
+.capability.is-open .capability-expanded,
+.capability-4.is-open .capability-expanded-2 {
+  max-height: 1200px;
+  margin-top: 24px;
+  opacity: 1;
+}
+.capability-marker,
+.capability-marker-2 {
+  transition: transform 250ms ease;
+}
+.capability.is-open .capability-marker,
+.capability-4.is-open .capability-marker-2 {
+  transform: scaleY(0.15);
+}
+[class*="wordmark"],
+[class*="logotype"],
+[class*="favicon"] {
+  background-repeat: no-repeat;
+  background-size: contain !important;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .capability-expanded,
+  .capability-expanded-2,
+  .capability-marker,
+  .capability-marker-2 {
+    transition: none;
+  }
+}

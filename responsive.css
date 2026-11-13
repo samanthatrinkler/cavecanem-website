@@ -1,0 +1,499 @@
+@media (max-width: 1100px) {
+  [class^="desktop-"] {
+    width: 100% !important;
+    max-width: 100% !important;
+    align-items: stretch !important;
+  }
+
+  [class^="desktop-"] > *,
+  [class^="desktop-"] * {
+    box-sizing: border-box;
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
+
+  [class^="desktop-"] > * {
+    width: 100% !important;
+  }
+
+  [class^="desktop-"] [class*="navigation"] {
+    height: auto !important;
+    flex-wrap: wrap !important;
+  }
+
+  [class^="desktop-"] [class*="page-links"] {
+    flex: 1 1 100% !important;
+    justify-content: flex-start !important;
+  }
+
+  [class^="desktop-"] [class*="home-entry"] {
+    flex: 1 1 100% !important;
+  }
+
+  .desktop-EN-home .editable-book-study,
+  .desktop-EN-dailleurs .source-artwork,
+  .desktop-EN-lespace .poster-wall-detail,
+  .desktop-EN-workshop .img-wrapper {
+    height: auto !important;
+    aspect-ratio: auto !important;
+    overflow: visible !important;
+  }
+
+  .desktop-EN-home .ERACOM-workshop,
+  .desktop-EN-dailleurs .preserved-project-6,
+  .desktop-EN-dailleurs .preserved-project-7,
+  .desktop-EN-lespace .preserved-workshop,
+  .desktop-EN-lespace .preserved-workshop-2,
+  .desktop-EN-workshop .piqpiq-for-3 {
+    position: relative !important;
+    inset: auto !important;
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 auto !important;
+    object-fit: contain !important;
+    transform: none !important;
+  }
+}
+
+@media (max-width: 900px) {
+  html,
+  body {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  [class^="desktop-"] {
+    min-height: 100vh;
+  }
+
+  [class^="desktop-"] > * {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 36px !important;
+    padding-bottom: 36px !important;
+    row-gap: 24px !important;
+  }
+
+  [class^="desktop-"] > :first-child {
+    padding-top: 0 !important;
+  }
+
+  [class^="desktop-"] > :first-child:is([class*="site-header"], [class*="navigation-wrapper"]) {
+    padding-bottom: 16px !important;
+  }
+
+  [class^="desktop-"] * {
+    overflow-wrap: normal;
+  }
+
+  [class^="desktop-"] [class*="navigation"] {
+    gap: 12px 16px !important;
+  }
+
+  [class^="desktop-"] [class*="page-links"] {
+    flex: 1 1 100% !important;
+    justify-content: flex-start !important;
+    gap: 8px 18px !important;
+  }
+
+  [class^="desktop-"] [class*="page-links"] > * {
+    flex: 0 0 auto !important;
+    white-space: nowrap !important;
+    overflow-wrap: normal !important;
+  }
+
+  [class^="desktop-"] [class*="home-entry"] {
+    flex: 1 1 100% !important;
+  }
+
+  [class^="desktop-"] [class*="footer-links"] {
+    flex-wrap: wrap !important;
+    gap: 12px 20px !important;
+  }
+
+  [class^="desktop-"] [class*="section-index"] {
+    flex-wrap: wrap !important;
+    align-items: baseline !important;
+    gap: 8px 16px !important;
+  }
+
+  [class^="desktop-"] [class*="section-index"] > :first-child {
+    flex: 0 0 auto !important;
+    white-space: nowrap !important;
+  }
+
+  [class^="desktop-"] [class*="artwork-caption"] {
+    flex-wrap: wrap !important;
+    justify-content: space-between !important;
+    gap: 12px 16px !important;
+  }
+
+  [class^="desktop-"] [class*="artwork-caption"] > :first-child {
+    flex: 1 1 100% !important;
+  }
+
+  [class^="desktop-"] img {
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+  }
+
+  [class^="desktop-"] [class*="heading"] {
+    margin-top: 0 !important;
+    font-size: 28px !important;
+    line-height: 1.18 !important;
+    letter-spacing: 0 !important;
+  }
+
+  [class^="desktop-"] [class*="description"],
+  [class^="desktop-"] [class*="principle"],
+  [class^="desktop-"] [class*="step-description"],
+  [class^="desktop-"] .introduction-2 {
+    font-size: 16px !important;
+    line-height: 1.55 !important;
+    letter-spacing: 0 !important;
+  }
+
+  [class^="desktop-"] [class*="marginal-note"],
+  [class^="desktop-"] [class*="notebook-entry"] {
+    font-size: 11px !important;
+    line-height: 1.45 !important;
+    letter-spacing: 0 !important;
+  }
+
+  [class^="desktop-"] .hero-statement {
+    width: 100% !important;
+    font-size: 36px !important;
+    line-height: 1.08 !important;
+    letter-spacing: 0 !important;
+  }
+
+  .desktop-EN-workshop .heading-9 {
+    width: 100% !important;
+    font-size: 36px !important;
+    line-height: 1.02 !important;
+    letter-spacing: 0 !important;
+  }
+
+  .desktop-EN-contact .heading-14,
+  .desktop-EN-projects .heading-20,
+  .desktop-EN-dailleurs .heading-16,
+  .desktop-EN-lespace .heading-4,
+  .desktop-EN-piqpiq .heading {
+    font-size: 36px !important;
+    line-height: 1.08 !important;
+    letter-spacing: 0 !important;
+  }
+
+  .desktop-EN-home .archive-heading,
+  .desktop-EN-piqpiq .project-approach {
+    font-size: 36px !important;
+    line-height: 1.1 !important;
+    letter-spacing: 0 !important;
+  }
+
+  .desktop-EN .heading-24 {
+    font-size: 30px !important;
+    line-height: 1.15 !important;
+    letter-spacing: 0 !important;
+  }
+
+  .desktop-EN-home .working-principle {
+    font-size: 22px !important;
+    line-height: 1.35 !important;
+    letter-spacing: 0 !important;
+  }
+
+  .desktop-EN-home .about-headline {
+    font-size: 28px !important;
+    line-height: 1.18 !important;
+    letter-spacing: 0 !important;
+  }
+
+  .desktop-EN-home .experimentation {
+    font-size: 32px !important;
+    line-height: 1.12 !important;
+    letter-spacing: 0 !important;
+  }
+
+  .desktop-EN-home .contact-headline {
+    font-size: 36px !important;
+    line-height: 1.1 !important;
+    letter-spacing: 0 !important;
+  }
+
+  [class^="desktop-"] [class*="studio-email"],
+  [class^="desktop-"] [class*="email-contact-action"] {
+    width: auto !important;
+    max-width: 100% !important;
+    font-size: 16px !important;
+    line-height: 1.4 !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  [class^="desktop-"] [class*="studio-domain"] {
+    width: auto !important;
+    max-width: 100% !important;
+    font-size: 13px !important;
+    line-height: 1.4 !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  [class^="desktop-"] [class*="previous-project"] {
+    width: auto !important;
+    max-width: 100% !important;
+    font-size: 14px !important;
+    line-height: 1.4 !important;
+    white-space: normal !important;
+  }
+
+  [class^="desktop-"] [class*="direction"],
+  [class^="desktop-"] [class*="next-direction"],
+  [class^="desktop-"] [class*="email-arrow"],
+  .desktop-EN-home .contact-arrow {
+    width: auto !important;
+    font-size: 24px !important;
+    line-height: 1.2 !important;
+    flex: 0 0 auto !important;
+  }
+
+  .desktop-EN-home .contact-note {
+    width: 100% !important;
+  }
+
+  .desktop-EN-home .contact-invitation-2,
+  .desktop-EN-home .direct-email-enquiry,
+  .desktop-EN-home .conversation-marker,
+  .desktop-EN .watchdog-print-3,
+  .desktop-EN .shared-instinct,
+  .desktop-EN .canine-study-3,
+  .desktop-EN .specimen-caption-3 {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .desktop-EN-home .conversation-marker {
+    flex-wrap: wrap !important;
+    align-items: flex-start !important;
+  }
+
+  .desktop-EN-home .email-enquiry-button {
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    gap: 8px 16px !important;
+  }
+
+  .desktop-EN-home .email-invitation {
+    font-size: 24px !important;
+    line-height: 1.2 !important;
+  }
+
+  .desktop-EN .canine-study-3 {
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+  }
+
+  .desktop-EN .specimen-caption-3 {
+    padding-left: 0 !important;
+  }
+
+  .desktop-EN .frame-5,
+  .desktop-EN .CAVE-CANEM-logomark-3 {
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+  }
+
+  .desktop-EN-home .experimentation {
+    width: 100% !important;
+  }
+
+  .desktop-EN .specimen-caption-3 {
+    flex-wrap: wrap !important;
+    gap: 8px 16px !important;
+  }
+
+  .desktop-EN .specimen-caption-3 .marginal-note-99 {
+    flex: 1 1 100% !important;
+    width: 100% !important;
+  }
+
+  .desktop-EN-home .practice-summary,
+  .desktop-EN-home .manifesto-and-canine,
+  .desktop-EN-home .project-pair,
+  .desktop-EN-home .archive-note,
+  .desktop-EN-home .reasons-to,
+  .desktop-EN-home .workshop-and-process > .div-3,
+  .desktop-EN-home .making-and-method,
+  .desktop-EN-home .process-steps,
+  .desktop-EN-home .contact-invitation,
+  .desktop-EN-home .direct-studio,
+  .desktop-EN-home .about-the-collective > .div-6,
+  .desktop-EN-home .div-6:has(.capabilities),
+  .desktop-EN .div-30 > .div-31,
+  .desktop-EN .reasons-to-2,
+  .desktop-EN .three-side-by-side,
+  .desktop-EN .practice-lenses,
+  .desktop-EN .practice-signature,
+  .desktop-EN .capabilities-2 > .div-31,
+  [class^="desktop-"] [class*="case-summary"],
+  .desktop-EN-contact .project-enquiry,
+  .desktop-EN-contact .project-enquiry > .div-20,
+  .desktop-EN-contact .contact-invitation-3,
+  .desktop-EN-contact .conversation,
+  .desktop-EN-contact .how-a-collaboration,
+  .desktop-EN-contact .complete-project,
+  .desktop-EN-contact .div-21,
+  .desktop-EN-dailleurs .opening-publication,
+  .desktop-EN-dailleurs .cover-and-interior,
+  .desktop-EN-dailleurs .design-commentary,
+  .desktop-EN-dailleurs .publication-details,
+  .desktop-EN-lespace .workshop-overview .div-12,
+  .desktop-EN-lespace .detail-pair,
+  .desktop-EN-lespace .poster-observations .div-12,
+  .desktop-EN-lespace .process-cross,
+  .desktop-EN-lespace .continue-exploring-2,
+  .desktop-EN-piqpiq .case-summary,
+  .desktop-EN-piqpiq .div-8,
+  .desktop-EN-piqpiq .piqpiq-artwork-on,
+  .desktop-EN-piqpiq .continue-exploring,
+  .desktop-EN-piqpiq .next-project-entry,
+  .desktop-EN-projects .editorial,
+  .desktop-EN-projects .archive-view,
+  .desktop-EN-projects .project-archive-2,
+  .desktop-EN-projects .project-pair-2,
+  .desktop-EN-projects .featured-project-2,
+  .desktop-EN-projects .practice-pathways,
+  .desktop-EN-workshop .workshop-manifesto,
+  .desktop-EN-workshop .motif-and-context,
+  .desktop-EN-workshop .systems-notebook .div-19,
+  .desktop-EN-workshop .div-17 > .div-19 {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    row-gap: 24px !important;
+  }
+
+  .desktop-EN-home .availability-open {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 12px !important;
+  }
+
+  .desktop-EN-home .availability-message,
+  .desktop-EN-home .availability-contact,
+  .desktop-EN-home .project-pair > *,
+  .desktop-EN-home .workshop-and-process > .div-3 > *,
+  .desktop-EN-home .reasons-to .collaboration,
+  .desktop-EN-home .process-steps > *,
+  .desktop-EN-home .archive-note > *,
+  .desktop-EN-home .contact-invitation > *,
+  .desktop-EN-home .direct-studio > *,
+  .desktop-EN .practice-signature > *,
+  .desktop-EN .collective-story,
+  .desktop-EN .reasons-to-2 .collaboration-7,
+  .desktop-EN .three-side-by-side .member,
+  .desktop-EN .practice-lenses .perspective {
+    width: 100% !important;
+    flex: 0 1 auto !important;
+  }
+
+  .desktop-EN-home .navbar {
+    flex: 1 1 100% !important;
+    flex-wrap: wrap !important;
+    justify-content: flex-start !important;
+    gap: 12px 20px !important;
+  }
+
+  .desktop-EN-home .navbar > * {
+    flex: 0 0 auto !important;
+    white-space: nowrap !important;
+  }
+
+  .desktop-EN-projects .editorial > *,
+  .desktop-EN-projects .archive-view > *,
+  .desktop-EN-contact .project-enquiry > .div-20 > *,
+  .desktop-EN-contact .conversation > *,
+  .desktop-EN-contact .how-a-collaboration > *,
+  .desktop-EN-lespace .process-cross > *,
+  .desktop-EN-piqpiq .piqpiq-artwork-on > * {
+    width: 100% !important;
+    flex: 0 1 auto !important;
+  }
+
+  .desktop-EN-home .capability-header,
+  .desktop-EN .capability-header-2 {
+    flex-wrap: wrap !important;
+    gap: 8px 16px !important;
+  }
+
+  .desktop-EN-home .capability-name,
+  .desktop-EN .capability-name-2 {
+    width: auto !important;
+    flex: 1 1 75% !important;
+    font-size: 22px !important;
+  }
+
+  .desktop-EN-home .capability-scope,
+  .desktop-EN .capability-scope-2 {
+    flex: 1 1 100% !important;
+  }
+
+  .desktop-EN-home .capability-expanded,
+  .desktop-EN .capability-expanded-2 {
+    width: 100% !important;
+    padding-left: 0 !important;
+  }
+
+  .desktop-EN-workshop .canine-study-2,
+  .desktop-EN-workshop .watchdog-print-2,
+  .desktop-EN-workshop .frame-3,
+  .desktop-EN-workshop .CAVE-CANEM-logomark-2,
+  .desktop-EN-home .canine-study,
+  .desktop-EN-home .frame {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .desktop-EN-workshop .CAVE-CANEM-logomark-2,
+  .desktop-EN-home .CAVE-CANEM-logomark {
+    object-fit: contain !important;
+  }
+
+  .desktop-EN-home .cavecanem-logotype {
+    width: 100% !important;
+    height: auto !important;
+    margin-left: 0 !important;
+  }
+
+  .desktop-EN-workshop .mineral-registration {
+    display: none !important;
+  }
+
+  .desktop-EN-contact .direct-email-enquiry-2,
+  .desktop-EN-contact .div-22,
+  .desktop-EN-contact .div-23,
+  .desktop-EN-dailleurs .editorial-approach,
+  .desktop-EN-lespace .visual-overview,
+  .desktop-EN-lespace .reading-notes,
+  .desktop-EN-piqpiq .div-9,
+  .desktop-EN-projects .project-entry-2,
+  .desktop-EN-workshop .div-16 {
+    width: 100% !important;
+  }
+
+  .desktop-EN-home .capability-marker,
+  .desktop-EN .capability-marker-2 {
+    flex: 0 0 16px !important;
+  }
+
+  .desktop-EN-home .capabilities-label,
+  .desktop-EN-home .capabilities-2,
+  .desktop-EN-home .capabilities-3,
+  .desktop-EN .capabilities-3 {
+    width: 100% !important;
+  }
+}

@@ -1,0 +1,936 @@
+.desktop-EN-piqpiq {
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  align-items: flex-start;
+  position: relative;
+  background-color: #ffffff;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.desktop-EN-piqpiq .site-header {
+  padding: 0px 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .navigation-2 {
+  display: flex;
+  height: 104px;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #101010;
+}
+
+.desktop-EN-piqpiq .home-entry {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+.desktop-EN-piqpiq .header-wordmark-home {
+  position: relative;
+  width: 190px;
+  height: 34.53px;
+  margin-left: -6.28px;
+  aspect-ratio: 5.5;
+  background-image: url(./img/cavecanem-logotype-1-14.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop-EN-piqpiq .collective-3 {
+  position: relative;
+  width: 174px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 14px;
+}
+
+.desktop-EN-piqpiq .page-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 36px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.desktop-EN-piqpiq .navigation-item {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 10px 0px 8px;
+  position: relative;
+  flex: 0 0 auto;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-color: #ff5a00;
+}
+
+.desktop-EN-piqpiq .navigation-link-3 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-piqpiq .navigation-link-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 10px 0px 8px;
+  position: relative;
+  flex: 0 0 auto;
+  border: 0px none;
+}
+
+.desktop-EN-piqpiq .navigation-link-4 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-piqpiq .studio-favicon-home {
+  position: relative;
+  width: 44px;
+  height: 40px;
+  background-image: url(./img/cave-favicon-home-6.png);
+  background-size: 100% 100%;
+}
+
+.desktop-EN-piqpiq .language-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-piqpiq .text-wrapper-3 {
+  font-weight: 700;
+  color: #ff5a00;
+}
+
+.desktop-EN-piqpiq .text-wrapper-4 {
+  color: #101010;
+}
+
+.desktop-EN-piqpiq .case-study {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 34px;
+  padding: 0px 48px 48px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .breadcrumb {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 24px 0px 4px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .marginal-note-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.desktop-EN-piqpiq .marginal-note-9 {
+  width: fit-content;
+  margin-top: -1px;
+  color: #101010;
+  white-space: nowrap;
+  position: relative;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-piqpiq .div-7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .back-to-projects {
+  position: relative;
+  width: 104px;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-piqpiq .marginal-note-10 {
+  width: 108px;
+  margin-top: -1px;
+  color: #101010;
+  position: relative;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-piqpiq .heading {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 88px;
+  letter-spacing: -3.5px;
+  line-height: 91.5px;
+}
+
+.desktop-EN-piqpiq .case-summary {
+  display: flex;
+  align-items: flex-start;
+  gap: 70px;
+  padding: 24px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #bbbbbb;
+}
+
+.desktop-EN-piqpiq .project-metadata {
+  flex-direction: column;
+  width: 348px;
+  align-items: flex-start;
+  gap: 12px;
+  display: flex;
+  position: relative;
+}
+
+.desktop-EN-piqpiq .marginal-note-11 {
+  width: 281px;
+  margin-top: -1px;
+  color: #101010;
+  position: relative;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-piqpiq .marginal-note-12 {
+  width: 173px;
+  color: #555555;
+  position: relative;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-piqpiq .overview {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.desktop-EN-piqpiq .description {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.desktop-EN-piqpiq .piqpiq-supplied-can {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+  padding: 0px 48px 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .piqpiq-artwork-on {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  padding: 40px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background:
+    linear-gradient(
+      0deg,
+      rgba(218, 218, 218, 1) 0%,
+      rgba(218, 218, 218, 1) 100%
+    ),
+    linear-gradient(
+      0deg,
+      rgba(240, 240, 240, 1) 0%,
+      rgba(240, 240, 240, 1) 100%
+    );
+}
+
+.desktop-EN-piqpiq .piqpiq-whitefrontier {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  aspect-ratio: 1.64;
+  object-fit: cover;
+}
+
+.desktop-EN-piqpiq .text-wrapper-5 {
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: relative;
+  align-self: stretch;
+}
+
+.desktop-EN-piqpiq .piqpiq-visual {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 56px 48px 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ff5a00;
+}
+
+.desktop-EN-piqpiq .project-section {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+}
+
+.desktop-EN-piqpiq .project-approach {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 86.4px;
+}
+
+.desktop-EN-piqpiq .div-8 {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .div-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.desktop-EN-piqpiq .observation-title {
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 14px;
+  line-height: 18.9px;
+  position: relative;
+  align-self: stretch;
+  font-weight: 400;
+  color: #101010;
+  letter-spacing: 0;
+}
+
+.desktop-EN-piqpiq .observation {
+  position: relative;
+  width: 561px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.desktop-EN-piqpiq .observation-2 {
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  line-height: 27px;
+  position: relative;
+  align-self: stretch;
+  font-weight: 400;
+  color: #101010;
+  letter-spacing: 0;
+}
+
+.desktop-EN-piqpiq .piqpiq-artwork {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 64px 48px 72px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .detail-heading {
+  align-self: stretch;
+  margin-top: -1px;
+  font-size: 56px;
+  line-height: 75.6px;
+  position: relative;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  letter-spacing: 0;
+}
+
+.desktop-EN-piqpiq .detail-description {
+  width: 900px;
+  font-size: 22px;
+  line-height: 29.7px;
+  position: relative;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  letter-spacing: 0;
+}
+
+.desktop-EN-piqpiq .img {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  aspect-ratio: 0.91;
+  object-fit: cover;
+}
+
+.desktop-EN-piqpiq .continue-exploring {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 56px 48px 72px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #bbbbbb;
+}
+
+.desktop-EN-piqpiq .marginal-note-13 {
+  width: 116px;
+  margin-top: -1px;
+  color: #101010;
+  position: relative;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-piqpiq .archive-return {
+  position: relative;
+  width: 143px;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-piqpiq .next-project-entry {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .project-artwork {
+  flex-direction: column;
+  width: 360px;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  display: flex;
+  position: relative;
+}
+
+.desktop-EN-piqpiq .preserved-project {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  aspect-ratio: 2.27;
+  object-fit: cover;
+}
+
+.desktop-EN-piqpiq .next-project-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.desktop-EN-piqpiq .heading-2 {
+  margin-top: -1px;
+  color: #101010;
+  font-size: 44px;
+  letter-spacing: -1px;
+  line-height: 45.8px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+}
+
+.desktop-EN-piqpiq .text-action-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 24px;
+  padding: 12px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #ff5a00;
+}
+
+.desktop-EN-piqpiq .action-label-2 {
+  position: relative;
+  width: 161px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-piqpiq .direction-2 {
+  position: relative;
+  width: 25px;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ff5a00;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-piqpiq .next-direction {
+  position: relative;
+  width: 69px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ff5a00;
+  font-size: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-piqpiq .project-pagination {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 24px 48px 32px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  position: relative;
+}
+
+.desktop-EN-piqpiq .div-10 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+}
+
+.desktop-EN-piqpiq .previous-project {
+  position: relative;
+  width: 151px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 23.8px;
+}
+
+.desktop-EN-piqpiq .project-page-numbers {
+  display: flex;
+  width: 260px;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+}
+
+.desktop-EN-piqpiq .project-page {
+  width: 64px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  padding: 12px 0px;
+  display: flex;
+  position: relative;
+}
+
+.desktop-EN-piqpiq .text-wrapper-6 {
+  position: relative;
+  width: 20px;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+
+.desktop-EN-piqpiq .current-project-page-wrapper {
+  display: flex;
+  width: 64px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  padding: 12px 0px;
+  position: relative;
+  background-color: #ff5a00;
+}
+
+.desktop-EN-piqpiq .next-project-link {
+  position: relative;
+  width: 111px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #101010;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 23.8px;
+}
+
+.desktop-EN-piqpiq .site-footer {
+  gap: 40px;
+  padding: 56px 48px 24px;
+  background-color: #101010;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .collaboration-2 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0px 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .invitation {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.desktop-EN-piqpiq .marginal-note-14 {
+  width: 152px;
+  margin-top: -1px;
+  color: #ff5a00;
+  position: relative;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-piqpiq .heading-3 {
+  color: #ffffff;
+  font-size: 80px;
+  letter-spacing: -4px;
+  line-height: 78.4px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+}
+
+.desktop-EN-piqpiq .contact-entry-2 {
+  display: flex;
+  flex-direction: column;
+  width: 370px;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+}
+
+.desktop-EN-piqpiq .description-2 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ff5a00;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.desktop-EN-piqpiq .text-action-3 {
+  display: inline-flex;
+  align-items: center;
+  gap: 24px;
+  padding: 12px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #bbbbbb;
+}
+
+.desktop-EN-piqpiq .action-label-3 {
+  position: relative;
+  width: 172px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ff5a00;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-piqpiq .studio-email-2 {
+  flex: 1;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  color: #ff5a00;
+  font-size: 26px;
+  line-height: 35.1px;
+  position: relative;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-piqpiq .studio-domain-2 {
+  width: fit-content;
+  font-family: "IBM Plex Mono", Helvetica;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 21.6px;
+  white-space: nowrap;
+  position: relative;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop-EN-piqpiq .footer-navigation-2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #555555;
+}
+
+.desktop-EN-piqpiq .marginal-note-15 {
+  width: 375px;
+  margin-top: -1px;
+  color: #ff5a00;
+  position: relative;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-piqpiq .footer-links-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 32px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.desktop-EN-piqpiq .footer-link-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-EN-piqpiq .cavecanem-logotype-wrapper {
+  position: relative;
+  max-width: 1150px;
+  width: 100%;
+  aspect-ratio: 5.5;
+}
+
+.desktop-EN-piqpiq .cavecanem-logotype-3 {
+  position: relative;
+  height: 100%;
+  left: -18px;
+  width: 1168px;
+  background-image: url(./img/cavecanem-logotype-1-15.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop-EN-piqpiq .marginal-note-16 {
+  width: 87px;
+  margin-top: -1px;
+  color: #ff5a00;
+  position: relative;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-piqpiq .marginal-note-17 {
+  width: 166px;
+  margin-top: -1px;
+  color: #ff5a00;
+  position: relative;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.desktop-EN-piqpiq::-webkit-scrollbar {
+  width: 0;
+  display: none;
+}
